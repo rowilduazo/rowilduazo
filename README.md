@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @rowilduazo
-- 👀 I’m interested in writing clean code
-- 🌱 I’m currently learning nodejs and expressjs
 
 <!---
 rowilduazo/rowilduazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
